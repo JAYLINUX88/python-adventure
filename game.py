@@ -91,3 +91,46 @@ while(decision == ""):
 print()
 time.sleep(1)
 #            ---section end---           #
+
+#   ---section Auther james--- #
+print("there is a ambush!")
+print("1. run away")
+print("2. stay and fight!")
+print()
+decision = ""
+while(decision == ""):
+    decision = input(" pick a number: ")
+    print()
+    if (decision == "1")
+        print(" you lose 50 percent of health for being a coward!!")
+        player_health = 50
+        print("your health now:")
+        print(player_health)
+    elif (decision == "2"):
+        print(" you stayed and fight bravery player boost
+        player_health = 120
+        print("your health now:")
+print()
+timesleep(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
